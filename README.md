@@ -29,8 +29,8 @@ I love to learn new technologies and collaborate with others to create innovativ
 ## Connect with Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debug)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourdiscordid)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/775330862458994728)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/yourchannel)
-[![Personal Website](https://img.shields.io/badge/-Personal_Website-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourpersonalwebsite.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCR1PSudRM0_TXi5BWGNnXZw)
+[![Personal Website](https://img.shields.io/badge/-Personal_Website-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elision.vercel.app/)
